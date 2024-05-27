@@ -1,4 +1,11 @@
 {
+   "name": "pos-application-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "start": "nodemon server.js"
+    },
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.2",
     "bcryptjs": "^2.4.3",
